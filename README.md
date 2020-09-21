@@ -1,3 +1,8 @@
+Welcome to Fiscally
+Your Fiscal / Financial Ally
+
+![alt tag](https://i.imgur.com/D0AEgwi.png)
+
 ## Installation
 
 1. Clone repo
