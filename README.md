@@ -1,7 +1,7 @@
 Welcome to Fiscally
 Your Fiscal / Financial Ally
 
-![alt tag](https://i.imgur.com/D0AEgwi.png)
+![alt tag](https://i.imgur.com/JjP0ZoO.png)
 
 ## Installation
 
@@ -12,7 +12,3 @@ Your Fiscal / Financial Ally
 
 1. run `node server.js`
 2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
